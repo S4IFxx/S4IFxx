@@ -1,6 +1,6 @@
 <!-- Title Banner -->
 <p align="center">
-  <img src="./code_1.gif" alt="Banner" width="800" height="600"/>
+  <img src="./code_1.gif" alt="Banner" width="800" height="700"/>
 </p>
 
 # 💫 About Me:
